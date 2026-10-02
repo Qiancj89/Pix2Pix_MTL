@@ -1,7 +1,5 @@
 # Ovarian ultrasound / synthetic CEUS experiment code
 
-This directory contains code copies for the experiments described in the revised manuscript. The original research files remain unchanged. Only comments containing Chinese characters and Chinese standalone documentation strings were removed from the release copies; non-Chinese comments and documentation strings were retained. The copied Python files were syntax-checked after this change. Removing a Chinese documentation string may change its `__doc__` metadata but does not alter the algorithms.
-
 ## Directory map
 
 | Directory | Scope |
