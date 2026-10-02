@@ -1,7 +1,3 @@
-# 论文实验代码公开整理版
-
-本目录是供 GitHub 发布前审核的代码副本；原实验脚本未改动。目录按投稿版图片级实验、数据拆分与患者级敏感性分析、病灶 ROI、可解释性与校准、临床专家盲评、补充数值表分组。
-
 ## 分类
 
 - `01_primary_image_level`：投稿版 Enhanced Pix2PixGAN、Basic Pix2Pix、6 个损失消融以及可用的多骨干网络分类代码。`legacy_diffusion_candidates` 和 `legacy_preprocessing` 保存父目录中的早期代码，但无法确认哪一份对应另一台电脑上的投稿版比较结果，不应据此声称精确复现。
