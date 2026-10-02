@@ -1,0 +1,14 @@
+numpy>=1.26
+pandas>=2.1
+Pillow>=10.0
+scikit-learn>=1.4
+scipy>=1.11
+scikit-image>=0.22
+matplotlib>=3.8
+torch>=2.2
+torchvision>=0.17
+tqdm>=4.66
+diffusers>=0.30
+accelerate>=0.33
+lpips>=0.1.4
+
